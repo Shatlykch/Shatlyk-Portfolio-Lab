@@ -1,0 +1,42 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(/Users/mac/Downloads/original-209d042dcbce4930299bcd6d8f900075.jpg);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    background-size: cover; 
+    background-position: top;
+    background-repeat: no-repeat;
+
+    
+    
+    
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+    color: #007BFF;
+}
+
+section {
+    margin: 20px;
+}
+h2 {
+    color: darkmagenta;
+}
